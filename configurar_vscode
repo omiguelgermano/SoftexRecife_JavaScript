@@ -1,0 +1,24 @@
+A melhor IDE ou a que torna mais fácil o aprendizado da linguagem JS é o VSCode da Microsoft.
+
+Abaixo vou listar os plugins que aumenta a produtividade na hora de desenvolver com o JS:
+
+nathanchapman.JavaScriptSnippets
+oderwat.indent-rainbow
+CoenraadS.bracket-pair-colorizer
+EQuimper.react-native-react-redux
+TimonVS.ReactSnippetsStandard
+wayou.vscode-todo-highlight
+minhthai.vscode-todo-parser
+wix.vscode-import-cost
+humao.rest-client
+formulahendry.auto-close-tag
+formulahendry.auto-rename-tag
+eamodio.gitlens
+alefragnani.project-manager
+emmanuelbeziat.vscode-great-icons
+SirTori.indenticator
+wakatime
+Orta.vscode-jest
+msjsdiag.debugger-for-chrome
+MS-vsliveshare.vsliveshare
+cssho.vscode-svgviewer
