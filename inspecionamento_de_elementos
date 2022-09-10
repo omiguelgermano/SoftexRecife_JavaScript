@@ -1,0 +1,22 @@
+<script type="text/javascript">
+    zESettings = {
+      webWidget: {
+        contactForm: {
+          fields: [
+            { "id": 360030231614, prefill: { '*': location.hostname.split('.')[0] } }
+          ]
+        },
+        position: {
+          horizontal: 'right',
+          vertical: 'bottom'
+        },
+        launcher: {
+          label: {
+            'pt-BR': 'Ajuda',
+            'en-US': 'Help'
+          }
+        }
+      }
+    };
+  </script>
+  
