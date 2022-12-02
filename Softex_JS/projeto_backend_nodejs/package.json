@@ -1,0 +1,24 @@
+{
+  "name": "projeto_backend_nodejs",
+  "version": "1.0.0",
+  "description": "Primeiro projeto NODE.JS para trabalho backend.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/omiguelgermano/SoftexRecife_JavaScript/blob/11a1b772c96f4dfd9e771eca4794e319666f2231/primeiro_projeto_node.js"
+  },
+  "keywords": [
+    "node.js",
+    "primeiro",
+    "projeto",
+    "estudo",
+    "backend",
+    "com",
+    "node.js"
+  ],
+  "author": "Miguel Germano",
+  "license": "ISC"
+}
